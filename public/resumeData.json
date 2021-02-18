@@ -1,118 +1,98 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Hyerin Moon",
+    "description":"I am a web development engineer and I use node.js and react to develop pages. This project is for study react.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"안녕하세요. 1년차 웹 개발자 문혜린입니다. Javascript와 Node.js를 이용한 웹 개발을 주로 하며, React를 공부하면서 실무에 적용하는 단계에 있습니다. 이 페이지는 React 연습을 위해서 github에서 찾은 템플릿을 적용해 만들었습니다.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "hrmoon081632@gmail.com",
+    "phone": "010-2201-9281",
+    "github":"https://github.com/moonhyerin/resume",
+    "project":"https://github.com/moonhyerin/resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"20, Dongtandaerosibeom-gil",
+      "city":"Hwaseong-si",
+      "state":"Gyeonggi-do",
+      "zip": "18477"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.what-a-moon.herokuapp.com",
+    "resumedownload":"https://www.what-a-moon.herokuapp.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/moonhyerin",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/rinhyemoon/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/moonhyerin/resume",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"제가 가진 기술들입니다. 평가는 주관적입니다 :)",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University",
+        "degree":"광고홍보학과",
+        "graduated":"2017년 2월",
+        "description":"커뮤니케이션학부로 입학하여 광고홍보학을 전공했으며 마케팅, 광고, 홍보, 미디어, 소비자심리에 대해 공부했습니다."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Study for being web engineer",
+        "degree":"KH정보교육원 자바(JAVA) 프레임워크 개발자 양성과정",
+        "graduated":"2020년 2월",
+        "description":"웹 개발자가 되기 위해 Html, Javascript, css등 Front-end 언어와 Java, Oracle Database 및 Spring Framework를 공부했습니다."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"(주)율시스템",
+        "title":"SW개발사업부 솔루션개발팀 사원",
+        "years":"2020년 3월 - 현재",
+        "description":"새로운 분야(건축) 로의 회사 사업 확장 및 관련 프로젝트 수주 (2020년), 글로벌 기업 Autodesk의 파트너사 자격 획득 (2021년), 다수의 전시회 참석 및 언론 노출을 통한 회사 홍보 효과 증대, 사내 근태관리 시스템을 통한 인사관리팀 업무 효율성 증대"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
+        "name":"NodeJs",
         "level":"55%"
       },
       {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"34%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
+        "level":"55%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Forge-Digital Twin",
+        "category": "Autodesk Forge 플랫폼을 이용한 단일 페이지 웹앱",
+        "image": "dt.png",
+        "url": "https://youlsys-viewer-digitaltwin.herokuapp.com/"
       },
       {
         "title":"Fury Fighting Gear",
