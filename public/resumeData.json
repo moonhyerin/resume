@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Hyerin Moon",
+    "name":"I'm Hyerin Moon",
     "description":"I am a web development engineer and I use node.js and react to develop pages. This project is for study react.",
     "image":"profilepic.jpg",
     "bio":"안녕하세요. 1년차 웹 개발자 문혜린입니다. Javascript와 Node.js를 이용한 웹 개발을 주로 하며, React를 공부하면서 실무에 적용하는 단계에 있습니다. 이 페이지는 React 연습을 위해서 github에서 찾은 템플릿을 적용해 만들었습니다.",
@@ -15,8 +15,8 @@
       "state":"Gyeonggi-do",
       "zip": "18477"
     },
-    "website": "https://www.what-a-moon.herokuapp.com",
-    "resumedownload":"https://www.what-a-moon.herokuapp.com",
+    "website": "https://what-a-moon.herokuapp.com",
+    "resumedownload":"https://what-a-moon.herokuapp.com",
     "social":[
       {
         "name":"facebook",
@@ -70,7 +70,7 @@
       },
       {
         "name":"ReactJs",
-        "level":"34%"
+        "level":"40%"
       },
       {
         "name":"CSS",
@@ -89,34 +89,22 @@
   "portfolio":{
     "projects": [
       {
-        "title": "Forge-Digital Twin",
-        "category": "Autodesk Forge 플랫폼을 이용한 단일 페이지 웹앱",
+        "title": "Digital Twin",
+        "category": "Autodesk Forge 플랫폼을 이용한 Digital Twin 사이트",
         "image": "dt.png",
         "url": "https://youlsys-viewer-digitaltwin.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"4D Simulation of building",
+        "category":"(offline now) 건물 4D 시뮬레이션 사이트",
+        "image":"4d.jpg",
+        "url":"https://youlsys-viewer-4d.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"MOONTUBE",
+        "category":"(offline now) React 실습용 유튜브 클론 코딩 사이트",
+        "image":"clone.jpg",
+        "url":"http://moontube.herokuapp.com"
       }
     ]
   }
