@@ -1,13 +1,13 @@
 {
   "main": {
-    "name":"I'm Hyerin Moon",
-    "description":"I am a web development engineer and I use node.js and react to develop pages. This project is for study react.",
+    "name":"Hello, I'm developer Hyerin",
+    "description":"A second-year skilled front-end developer👩🏻‍💻 I use Node.js and React to develop pages.",
     "image":"profilepic.jpg",
-    "bio":"안녕하세요. 1년차 웹 개발자 문혜린입니다. Javascript와 Node.js를 이용한 웹 개발을 주로 하며, React를 공부하면서 실무에 적용하는 단계에 있습니다. 이 페이지는 React 연습을 위해서 github에서 찾은 템플릿을 적용해 만들었습니다.",
+    "bio":"안녕하세요. 2년차 웹 개발자 문혜린입니다. Javascript와 Node.js를 이용한 웹 개발을 주로 하며, React를 공부하면서 실무에 적용하는 단계에 있습니다. 이 페이지는 React 연습을 위해서 github에서 찾은 템플릿을 적용해 만들었습니다.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hrmoon081632@gmail.com",
-    "phone": "010-2201-9281",
-    "github":"https://github.com/moonhyerin/resume",
+    "phone": "+82)10-2201-9281",
+    "github":"https://github.com/moonhyerin",
     "project":"https://github.com/moonhyerin/resume",
     "address":{
       "street":"20, Dongtandaerosibeom-gil",
