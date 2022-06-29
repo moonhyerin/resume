@@ -294,7 +294,7 @@ ul#nav li.current a { color: #fe6928; }
    position: relative;
   	margin-bottom: 60px;
   	background: #333;
-  	height: 42px;
+  	height: 20px;
   	border-radius: 0px;
 }
 .bars li em {
@@ -310,12 +310,11 @@ ul#nav li.current a { color: #fe6928; }
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 42px;
+  	height: 20px;
    line-height: 42px;
    border-radius: 0px;
 }

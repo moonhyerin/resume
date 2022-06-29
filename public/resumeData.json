@@ -1,14 +1,14 @@
 {
   "main": {
-    "name":"Hello, I'm developer Hyerin",
-    "description":"A second-year skilled front-end developer👩🏻‍💻 I use Node.js and React to develop pages.",
+    "name":"Hyerin Moon",
+    "description":"Hello, I'm Hyerin. I'm a third-year skilled front-end developer👩🏻‍💻",
     "image":"profilepic.jpg",
-    "bio":"안녕하세요. 2년차 웹 개발자 문혜린입니다. Javascript와 Node.js를 이용한 웹 개발을 주로 하며, React를 공부하면서 실무에 적용하는 단계에 있습니다. 이 페이지는 React 연습을 위해서 github에서 찾은 템플릿을 적용해 만들었습니다.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"안녕하세요, 경력 2년 3개월의 3년차 웹 개발자 문혜린입니다. React, Node.js를 이용한 프론트엔드/백엔드 개발 및 유지보수 경험을 가지고 있습니다. 새로운 모든 것에 관심이 많고, 커뮤니케이션 하는 것을 좋아합니다. (기술 이야기 뿐만 아니라 수다 떠는 것도 좋아합니다!) \"의미 있는 일을 하면서 만족스러운 삶을 살고 싶다\" 는 제 인생의 모토입니다. 단순히 돈을 벌기 위한 일을 한다면 인생이 얼마나 재미 없을지, 의미 있는 일이 내 인생을 얼마나 풍부하게 만들 수 있을지 공감할 수 있는 사람들과 함께 일하고 싶습니다.",
+    "contactmessage":"If you have any question or interest to me, please contact me right now! Don't hesitate! 저에게 관심이 생기셨다면 메일을 보내주세요 :)",
     "email": "hrmoon081632@gmail.com",
     "phone": "+82)10-2201-9281",
     "github":"https://github.com/moonhyerin",
-    "project":"https://github.com/moonhyerin/resume",
+    "blog":"https://velog.io/@ansfls",
     "address":{
       "street":"20, Dongtandaerosibeom-gil",
       "city":"Hwaseong-si",
@@ -19,19 +19,19 @@
     "resumedownload":"https://what-a-moon.herokuapp.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/moonhyerin",
-        "className":"fa fa-facebook"
+        "name":"github",
+        "url":"https://github.com/moonhyerin/resume",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"velog",
+        "url":"https://velog.io/@ansfls",
+        "className":"fa fa-book"
       },
       {
         "name":"instagram",
         "url":"https://www.instagram.com/rinhyemoon/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/moonhyerin/resume",
-        "className":"fa fa-github"
       }
     ]
   },
@@ -39,64 +39,84 @@
     "skillmessage":"제가 가진 기술들입니다. 평가는 주관적입니다 :)",
     "education":[
       {
-        "school":"University",
-        "degree":"광고홍보학과",
-        "graduated":"2017년 2월",
-        "description":"커뮤니케이션학부로 입학하여 광고홍보학을 전공했으며 마케팅, 광고, 홍보, 미디어, 소비자심리에 대해 공부했습니다."
+        "school":"KH정보교육원",
+        "degree":"JAVA 프레임워크 개발자 양성과정",
+        "graduated":"2019년 7월 - 2020년 2월",
+        "description":"웹 개발자가 되는 첫걸음을 위해 Html, Javascript, css등 Front-end 언어와 Java, Oracle Database 및 Spring Framework를 공부했습니다."
       },
       {
-        "school":"Study for being web engineer",
-        "degree":"KH정보교육원 자바(JAVA) 프레임워크 개발자 양성과정",
-        "graduated":"2020년 2월",
-        "description":"웹 개발자가 되기 위해 Html, Javascript, css등 Front-end 언어와 Java, Oracle Database 및 Spring Framework를 공부했습니다."
+        "school":"단국대학교",
+        "degree":"광고홍보학과",
+        "graduated":"2012년 3월 - 2017년 2월",
+        "description":"광고홍보학을 전공했으며 미디어 심리, 소비자 심리, 마케팅, PR, 브랜딩, 광고디자인, 카피라이팅 등을 공부했습니다."
       }
     ],
     "work":[
       {
-        "company":"(주)율시스템",
+        "company":"(주) Ailys",
+        "title":"Full stack software developer",
+        "years":"2021년 4월 - 현재",
+        "description":"DAVinCI LABS 신규 기능 개발 및 유지보수 - 클라이언트 요구사항을 기반으로 애자일과 칸반 보드를 적용한 이슈 단위의 기능 개발 진행 / Redux를 이용한 state 상태 관리, props 복잡도 개선 / Jest, Cypress를 이용한 TDD 기반 개발, 테스트 코드 작성 / 스토리보드 및 개발 관련 문서 업데이트 / 레거시 개선 노력의 일환으로 팀원들과 Layered Architecture, Adapter Pattern에 대한 논의 및 적용 / Docker, Webpack, Babel 환경 기반의 웹 배포 경험 / 주 사용 언어의 깊은 이해를 위하여 2주 단위의 팀 내 스터디 진행"
+      },
+      {
+        "company":"(주) 율시스템",
         "title":"SW개발사업부 솔루션개발팀 사원",
-        "years":"2020년 3월 - 현재",
-        "description":"새로운 분야(건축) 로의 회사 사업 확장 및 관련 프로젝트 수주 (2020년), 글로벌 기업 Autodesk의 파트너사 자격 획득 (2021년), 다수의 전시회 참석 및 언론 노출을 통한 회사 홍보 효과 증대, 사내 근태관리 시스템을 통한 인사관리팀 업무 효율성 증대"
+        "years":"2020년 3월 - 2021년 4월",
+        "description":"새로운 분야(건축) 로의 회사 사업 확장 및 관련 프로젝트 수주 (2020년) / 글로벌 기업 Autodesk의 파트너사 자격 획득 (2021년) / 다수의 전시회 참석 및 언론 노출을 통한 회사 홍보 효과 증대 / 사내 근태관리 시스템을 통한 인사관리팀 업무 효율성 증대"
       }
     ],
     "skills":[
       {
-        "name":"NodeJs",
-        "level":"55%"
-      },
-      {
         "name":"Javascript",
-        "level":"60%"
+        "level":"85%"
       },
       {
-        "name":"ReactJs",
-        "level":"40%"
+        "name":"React",
+        "level":"85%"
       },
       {
-        "name":"CSS",
-        "level":"55%"
+        "name":"Redux",
+        "level":"80%"
       },
       {
-        "name":"JAVA",
+        "name":"Node.js",
+        "level":"76%"
+      },
+      {
+        "name":"Typescript",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Html/CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
         "level":"50%"
-      },
-      {
-        "name":"C#",
-        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
+        "title": "DAVinCI LABS",
+        "category": "머신러닝 기반의 빅데이터 분석 프로그램",
+        "image": "DL.png",
+        "url": "https://davincilabs.ai/"
+      },
+      {
         "title": "Digital Twin",
-        "category": "Autodesk Forge 플랫폼을 이용한 Digital Twin 사이트",
+        "category": "(offline now) Autodesk Forge 플랫폼을 이용한 Digital Twin 사이트",
         "image": "dt.png",
         "url": "https://youlsys-viewer-digitaltwin.herokuapp.com/"
       },
       {
         "title":"4D Simulation of building",
-        "category":"(offline now) 건물 4D 시뮬레이션 사이트",
+        "category":"(offline now) 건물 모델에 대한 4D 시뮬레이션 사이트",
         "image":"4d.jpg",
         "url":"https://youlsys-viewer-4d.herokuapp.com/"
       },
