@@ -176,6 +176,11 @@ ul#nav li a {
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #fe6928; }
 
+.toggle-darkmode {
+   width: 10px;
+   height: 5px;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* c. About Section

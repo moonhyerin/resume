@@ -15,12 +15,12 @@
       "state":"Gyeonggi-do",
       "zip": "18477"
     },
-    "website": "https://what-a-moon.herokuapp.com",
+    "website": "http://hailee.me",
     "resumedownload":"https://what-a-moon.herokuapp.com",
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/moonhyerin/resume",
+        "url":"https://github.com/moonhyerin",
         "className":"fa fa-github"
       },
       {
